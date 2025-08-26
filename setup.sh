@@ -6,7 +6,7 @@
 
 # < obrigado @adelsonsljunior :kissing_heart /> 
 # adaptei o script do adelson para o meu uso pessoal...
-# ROUBEI MESMO (tecnicamente é estelionato, mas fazer o que né... no linux pode ksksksk)
+# ROUBEI MESMO (tecnicamente não é roubo, mas fazer o que né... no linux pode ksksksk)
 
 
 ## colores hihihi
