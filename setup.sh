@@ -142,9 +142,7 @@ install_flatpak_programs() {
 
 install_docker() {
     print_section "Instalando Docker e Docker Compose"
-    curl -fsSL https://get.docker.com -o get-docker.sh
-    sudo sh get-docker.sh
-    rm get-docker.sh
+    curl -fsSL https://get.docker.com -o get-docker.sh | bash
     
     echo -e "${GREEN}[INFO] - Adicionando seu usuário (${USER}) ao grupo docker.${DEFAULT}"
     sudo usermod -aG docker "$USER"
